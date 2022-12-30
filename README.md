@@ -1,2 +1,2 @@
 # Dentist-Website
-https://junaidansari1100.github.io/Dentist-Website/
+https://junaid-shabir.github.io/Dentist-Website/
